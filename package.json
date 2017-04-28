@@ -4,6 +4,6 @@
   "description": "Minimum git repo",
   "main": "",
   "repository": "http://github.com/winksaville/minrepo",
-  "author": "Wink Saville",
+  "author": "Wink Saville <wink@saville.com> (http://github.com/winksaville)",
   "license": "MIT"
 }
