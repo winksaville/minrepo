@@ -1,0 +1,9 @@
+{
+  "name": "minrepo",
+  "version": "0.1.0",
+  "description": "Minimum git repo",
+  "main": "",
+  "repository": "http://github.com/winksaville/minrepo",
+  "author": "Wink Saville",
+  "license": "MIT"
+}
